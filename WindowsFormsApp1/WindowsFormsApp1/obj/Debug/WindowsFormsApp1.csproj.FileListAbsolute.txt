@@ -1,0 +1,10 @@
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\1_урок\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\1_урок\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\1_урок\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\1_урок\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\1_урок\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\1_урок\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\1_урок\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\1_урок\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Bancomat.resources
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\1_урок\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\1_урок\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormInfo.resources
